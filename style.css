@@ -1,4 +1,7 @@
-.div1{
+body{
+    background-color: crimson;
+}
+/* .div1{
     min-height:30em;
     background-image: url(./assets/photo1.jpg);
     background-repeat: no-repeat;
@@ -12,4 +15,7 @@
     flex-direction: row;
     align-items: center;
     font-weight: 900;
+} */
+.aboutus{
+    color: beige;
 }
