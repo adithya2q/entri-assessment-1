@@ -1,0 +1,15 @@
+.div1{
+    min-height:30em;
+    background-image: url(./assets/photo1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.div1 ul{
+    padding-top: 14em;
+    color: rgb(12, 175, 167);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-weight: 900;
+}
